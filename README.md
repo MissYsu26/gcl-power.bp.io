@@ -45,5 +45,5 @@ E108 Space Exchange (ESE) 是一个去中心化数字资产交易所，为投资
 
 
 
-更多信息请参考 [GCL Power](http://www.gcl-power.com/).
+更多信息请参考 [GCL Power].
 
